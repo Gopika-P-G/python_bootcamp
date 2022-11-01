@@ -1,0 +1,5 @@
+z = input("what is your name?\n")
+print('Hello' + ' ' + z + ' ' + 'welcome to bandgenerator')
+x = input('what is your first city?\n')
+y = input('what is your pet name?\n')
+print(y + ' ' + x)
