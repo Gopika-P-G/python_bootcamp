@@ -1,5 +1,5 @@
 input("Welcome to Treasure Island \n Your Mission is to Find the Treasure")
-direction =input("where you want to go left or right: ")
+direction =input("where you want to go left or right: ").lower()
 
 if direction == "left":
     travel = input("do you want to wait for boat or prefer to swim: ")
